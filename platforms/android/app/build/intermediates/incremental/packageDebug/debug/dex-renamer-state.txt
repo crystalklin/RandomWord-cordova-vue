@@ -1,0 +1,4 @@
+#Sat Dec 30 23:45:24 PST 2017
+base.0=/Users/aag/Documents/RandomWord/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/Users/aag/Documents/RandomWord/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex
